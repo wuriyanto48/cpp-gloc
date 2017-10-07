@@ -1,5 +1,11 @@
 Simple Game: Guess the Location
 
+Compile first:
+
+  ```shell
+  make build
+  ```
+
 - When you run this program, the program will prompt like this:
     0 0 0 0 0 0 0 1 0 0
     0 0 0 0 0 0 0 0 0 0
