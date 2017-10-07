@@ -7,6 +7,7 @@ Compile first:
   ```
 
 - When you run this program, the program will prompt like this:
+    ```shell
     0 0 0 0 0 0 0 1 0 0
     0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 1 0 0
@@ -18,6 +19,7 @@ Compile first:
     0 0 0 0 0 0 0 0 0 0
     0 0 0 0 1 0 0 0 0 1
     Guess the location:
+    ```
 
 - Just guess the locations
 
